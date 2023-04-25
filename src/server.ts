@@ -10,15 +10,15 @@ app.use(cors())
 
 app.use(router);
 
-app.use((err: Error, require: Request, response: Response, next: NextFunction) => {
+app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
   if(err instanceof Error){
     //Se for uma instancia do tipo erro
-    return response.status(400).json({
+    return res.status(400).json({
       error: err.message
     })
   }
 
-  return response.status(500).json({
+  return res.status(500).json({
     status: 'error',
     message: 'Internal server error.'
   })

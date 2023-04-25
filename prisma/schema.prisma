@@ -11,6 +11,7 @@ datasource db {
 }
 
 // criar uma migration: yarn prisma migrate dev
+// O que eu preciso fornecer quando for me cadastrar.
 model User {
   id         String    @id @default(uuid())
   name       String
