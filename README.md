@@ -8,7 +8,7 @@ A aplicação possui rotas para listar as pizzas cadastradas, criar um novo pedi
 </p>
 </br>
 
-<h1> Requisitos </h1>
+<h1>📄 Requisitos </h1>
 
 <li>Vscode</li>
 <li>Git</li>
@@ -17,13 +17,13 @@ A aplicação possui rotas para listar as pizzas cadastradas, criar um novo pedi
 <li>Insomnia</li>
 <li>Beekeeper</li>
 
-<h1>Instalação</h1>
+<h1>📥 Instalação</h1>
 
 <p>1.Clone este repositório.</p>
 <p>2.Dentro da pasta do projeto, execute yarn install para instalar as dependências.</p>
 <p>3.Para iniciar o back-end, execute yarn dev.</p>
 
-<h1>Funcionalidades</h1>
+<h1>🖥 Funcionalidades</h1>
 
 <li>Cadastrar um novo usuário.</li>
 <li>Logar um usuário.</li>
@@ -38,7 +38,7 @@ A aplicação possui rotas para listar as pizzas cadastradas, criar um novo pedi
 <li>Poder acessar todos detalhes de uma mesa com pedidos dela.</li>
 <li>Concluir o pedido.</li>
 
-<h1>Bibliotecas instaladas</h1>
+<h1>🚀 Bibliotecas instaladas</h1>
 <li>prisma</li>
 <li>bcryptjs</li>
 <li>cors</li>
@@ -48,9 +48,6 @@ A aplicação possui rotas para listar as pizzas cadastradas, criar um novo pedi
 <li>jsonwebtoken</li>
 <li>multer</li>
 <li>typescript</li>
-
-<h1>Backend</h1>
-Node + ORM Prisma
 
 <hr />
 Made with </> by Henrique Rodrigues 👋 Get in touch!
