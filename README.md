@@ -21,7 +21,7 @@ A aplicação possui rotas para listar as pizzas cadastradas, criar um novo pedi
 
 <p>1.Clone este repositório.</p>
 <p>2.Dentro da pasta do projeto, execute yarn install para instalar as dependências.</p>
-<p>3.Para iniciar o back-end, execute yarn start.</p>
+<p>3.Para iniciar o back-end, execute yarn dev.</p>
 
 <h1>Funcionalidades</h1>
 
